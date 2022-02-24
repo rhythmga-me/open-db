@@ -1,6 +1,6 @@
-import { DMRV_DataTable } from './config'
+import { EZ2ON_DataTable } from './config'
 
-export const data: DMRV_DataTable = {
+export const data: EZ2ON_DataTable = {
   date: new Date().toString(),
   data: {
     // create: [],
