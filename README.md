@@ -1,4 +1,4 @@
-# Rhythmga.me Open Rank Table DB Repository
+# Rhythmga.me Open DB Repository
 
 (ko)
 
